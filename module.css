@@ -1,0 +1,50 @@
+/* module.css */
+body {font-family: avenir;}
+h1 {text-align: center;
+Color: black;
+font-size: 400%;
+}
+* {box-sizing: border-box;}
+
+
+
+div.one {width: 50%;
+	background-color: #675c57;
+	border: 1px solid black;
+	padding: 10px;
+margin: 40px;
+float: left;
+clear: top;} 
+ 
+div.two {width: 50%;
+ 	background-color: #675c57;
+	border: 1px solid black;
+	padding: 10px;
+margin: 40px;
+float: left;
+} 
+
+div.three {width: 50%;
+ 	background-color: #675c57;
+	border: 1px solid black;
+	padding: 10px;
+margin: 40px;
+clear: both;} 
+ 
+section {text-align: center;
+ 	font-size: 200%;
+ 	border: 3px solid black;
+ 	width: 50%;
+ 	margin: 3px;
+ 	padding: 5px;
+ 	position: relative;
+ 	top: 100%;
+ 	left: 50%;
+ }
+section.chicken {background-color: #fa98a6;}
+section.beef {background-color: #bb2d2d}
+section.sushi {background-color: #fdf494}
+
+ p {text-align: left;}
+
+
